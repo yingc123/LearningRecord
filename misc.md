@@ -2,6 +2,6 @@
 
 [Pycharm远程连接服务器，并在本地调试服务器代码](https://www.cnblogs.com/Alier/p/8536123.html)
 
-[远程服务器使用Tensorboard](https://www.cnblogs.com/zhuchengchao/p/11620773.html)
+[远程服务器使用Tensorboard](https://www.jianshu.com/p/9a0ecef29025)
 
 
