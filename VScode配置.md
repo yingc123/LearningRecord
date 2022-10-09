@@ -1,4 +1,6 @@
+# 配置
 ![image](https://user-images.githubusercontent.com/48793634/194750350-c720d2c0-36e8-48d6-8a81-9d5697bd6bab.png)
+
 Output directory: 输出的dll/exe文件存放处
 
 设置 Working directory: 当前工作目录，exe调用目录/dll没有太大意义
