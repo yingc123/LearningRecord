@@ -14,7 +14,9 @@ Output directory: 输出的dll/exe文件存放处
 
 # 改变工作目录
 cmd
+
     cd /d (path)D:\MCSF_CY\MCSF\BRANCH\ZHENGHE_69_SP4\UIH\bin & (exe)McsfAlgoVessel_UT.exe
 
 python
+
     os.chdir()
